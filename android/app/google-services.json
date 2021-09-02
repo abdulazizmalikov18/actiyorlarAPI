@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "410684491347",
+    "project_id": "kinoqahramonfirebase-36b28",
+    "storage_bucket": "kinoqahramonfirebase-36b28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410684491347:android:506ec9248ea9ee9f1428a6",
+        "android_client_info": {
+          "package_name": "com.example.kinoqahramon_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410684491347-70e3a0v2g5kp6ncmo8dc9it4i67begrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kinoqahramon_firebase",
+            "certificate_hash": "332dfd6c2bcea0e589d3ba1ea42192fe207982bf"
+          }
+        },
+        {
+          "client_id": "410684491347-hkplvcu3034uhribhsdl14gtrl5klogo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFeExSdS4Lkg_-nE2l-tMWNmMt4jzSHXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410684491347-hkplvcu3034uhribhsdl14gtrl5klogo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
